@@ -8,8 +8,10 @@ Es una carpeta del repositorio `hsotes/hernansoto-web` y se publica con GitHub P
 ```
 estructuras/
 ├── index.html                    ← índice con una tarjeta por ejercicio
-└── columna-semaforica/
-    └── index.html                ← cada ejercicio es una página autónoma (foto incluida)
+├── columna-semaforica/
+│   └── index.html                ← cada ejercicio es una página autónoma (foto incluida)
+└── puente-sobre-autopista/
+    └── index.html
 ```
 
 Las páginas llevan `<meta name="robots" content="noindex, nofollow">`: son públicas para quien tenga el enlace, pero los buscadores no las listan.
@@ -39,3 +41,4 @@ Las páginas llevan `<meta name="robots" content="noindex, nofollow">`: son púb
 | # | Ejercicio | Temas |
 |---|-----------|-------|
 | 01 | [Columna semafórica con pescante](https://hernansoto.com/estructuras/columna-semaforica/) | Viento CIRSOC 102, flexión + torsión CIRSOC 301, placa base, pernos, dado H-21 |
+| 02 | [Puente de vigas sobre la autopista](https://hernansoto.com/estructuras/puente-sobre-autopista/) | Sobrecarga HL-13_AR CIRSOC 801, carga móvil, factor de distribución, pretensado, corte, flecha, neopreno, pila |
